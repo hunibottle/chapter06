@@ -9,7 +9,10 @@ public class maxmin {
 		
 		int n;
 		data[0] = Integer.parseInt(arr[0]);  
-		System.out.println(data[0]);
+		System.out.println(data[1]);
+		System.out.println(data[1]);
+		System.out.println(data[1]);
+		System.out.println(data[1]);
 		
 		//codeReview
 	}
