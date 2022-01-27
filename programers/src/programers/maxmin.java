@@ -11,6 +11,7 @@ public class maxmin {
 		data[0] = Integer.parseInt(arr[0]);  
 		System.out.println(data[0]);
 		
+		//codeReview
 	}
 	
 }
