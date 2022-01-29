@@ -26,4 +26,5 @@ public class prime_number {
 		System.out.println(a);
 
 	}
+	
 }

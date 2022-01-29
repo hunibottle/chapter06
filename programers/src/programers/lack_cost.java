@@ -6,7 +6,7 @@ public class lack_cost {
 		
 		int price = 3;
 		int money = 20;
-		int count = 2;
+		int count = 4;
 		int result;
 		
 		int sum;

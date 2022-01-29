@@ -5,7 +5,7 @@ class Solution {
             if(i< phone_number.length()-4){
                 answer += "*";
             }else{
-                answer += phone_number.charAt(i)
+                answer += phone_number.charAt(i);
             }
         }
         return answer;
