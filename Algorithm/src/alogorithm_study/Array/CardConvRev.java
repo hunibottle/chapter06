@@ -9,6 +9,7 @@ public class CardConvRev {
 		do {
 			d[digits++] = dchar.charAt(x%r);
 			x /= r;
+			
 		}while(x!=0);
 		
 		return digits;
@@ -19,7 +20,7 @@ public class CardConvRev {
 		
 		
 		int no = 59;
-		int cd = 2;
+		int cd = 8;
 		int dno;
 		char[] cno = new char[32];
 		
