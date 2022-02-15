@@ -1,4 +1,5 @@
 package Command2;
+
 /*
 로봇의 동작을 정의하는 클래스
 1.로봇의 움직임
@@ -6,6 +7,13 @@ package Command2;
 3.로봇의 기술  
 */
 public class Character {
+	
+	private Command command;
+
+	public void setCommand(Command command){
+        this.command = command;
+    }
+	
   public enum Direction { LEFT, RIGHT, DIAGONAL}; // 허용가능한 값이 제한되기 때문에 신입개발자가 실수할 확률이 훨씬 줄어들게 된다. 
  
 

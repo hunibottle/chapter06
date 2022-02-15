@@ -8,13 +8,9 @@ public class Command_Skill_1 extends Command{
   private Upercut up = new Upercut();
   private ArrayList<Command> commands = new ArrayList<Command>();
   
-
-  
-
   public void addCommand (Command command) {
     commands.add(command);
   }
-  
   
   public void start () {
     for (Command command : commands) {

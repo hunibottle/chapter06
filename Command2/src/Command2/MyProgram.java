@@ -3,7 +3,7 @@ package Command2;
 
 public class MyProgram {
 
-  public void main(String[] args) {
+  public static void main(String[] args) {
     Command_Skill_1 skill1 = new Command_Skill_1 ();
     Command_Skill_2 skill2 = new Command_Skill_2 ();
     
