@@ -19,3 +19,8 @@ public class sort_make_min {
 		System.out.println(total);
 	}
 }
+
+//Arrays import 하기
+//sort 함수는 [ Arrays.sort(a) ]로 사용 할 수 있고 배열 a를 올림차순으로 정렬한다.
+//만약 배열 a 가 스트링일 경우 한글 -> ㄱ,ㄴ,ㄷ 순 / 영어 -> a, b, c 순으로 정렬한다.
+

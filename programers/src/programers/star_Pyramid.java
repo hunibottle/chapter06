@@ -15,10 +15,10 @@ public class star_Pyramid {
 		int star = 0;
 		
 		for(int i = 0 ; i < n ; i++) {
-			blank = n - i;
+			blank = n - i - 1;
 			star = 2 * i + 1;
 			for(int j = 0 ; j < blank ; j++) {
-				System.out.print(" ");
+				System.out.print("1");
 			}
 			for(int k = 0 ; k < star ; k++) {
 				System.out.print("*");

@@ -36,7 +36,7 @@ public class make_min_number {
 		for(int i = 0, j = a.length - 1; i < a.length; i++, j--) {
 			min_max = a[i] * b[j];
 			total += min_max;
-	}
+		}
 		System.out.println(total);
 	}
 }
@@ -44,3 +44,4 @@ public class make_min_number {
 //   외부의 for문이 1씩 증가하기 때문에 앞자리를 비교 안해도 된다.
 // 2. 행렬 a는 작은 순서대로 정렬하고 행렬b는 큰수로 정렬 한 후 
 //    서로 대칭되는 수를 곱하고 총합을 구한다.
+// 결과 -> 테스트 100점, 효율성 0
