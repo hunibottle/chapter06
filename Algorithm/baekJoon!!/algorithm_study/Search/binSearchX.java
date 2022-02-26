@@ -1,4 +1,4 @@
-package Search;
+package algorithm_study.Search;
 
 public class binSearchX {
 	

@@ -1,4 +1,4 @@
-package alogorithm_study;
+package algorithm_study;
 
 public class Gaussian {
 	
