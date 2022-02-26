@@ -1,4 +1,4 @@
-package alogorithm_study.Array;
+package algorithm_study.Array;
 
 import java.util.Scanner;
 
