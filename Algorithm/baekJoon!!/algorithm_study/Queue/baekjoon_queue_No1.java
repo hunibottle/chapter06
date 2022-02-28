@@ -29,7 +29,7 @@ public class baekjoon_queue_No1 {
 				queue.add(x);
 				System.out.println(queue);
 				break;
-				// 나중에 문제풀때 큐에 마지막 값도 알아야 하는 상황이 생기면 push값을 이용한다.
+				// 나중에 문제풀때 큐에 마지막 값도 알아야 하는 상황이 생기면 push값을 이용한다.!!
 			case "pop":
 				queue.remove();
 				System.out.println(queue);
