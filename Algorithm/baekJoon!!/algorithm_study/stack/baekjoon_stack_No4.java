@@ -3,7 +3,7 @@ package algorithm_study.stack;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class baekjoon_stack_NO4 {
+public class baekjoon_stack_No4 {
 	
 	public static void main(String[] args) {
 		
