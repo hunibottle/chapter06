@@ -12,7 +12,7 @@ public class Hanoi {
 		if(no>1) {
 			move(no-1,6-x-y,y);
 		}
-	}
+	}//재귀 함수 순서 파악 다시 하기
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
